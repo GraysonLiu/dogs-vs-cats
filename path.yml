@@ -1,0 +1,7 @@
+train_set_raw_data_dir: 'E:/datasets/dogs_vs_cats/train'
+test_set_raw_data_dir: 'E:/datasets/dogs_vs_cats/test'
+processed_data_dir: './data'
+tensorboard_dir: './log'
+model_dir: './model'
+learning_rate: 1e-3
+img_size: 50
